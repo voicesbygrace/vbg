@@ -7,7 +7,7 @@ const Layout = ({children}) => {
   return (
     <div className='layout'>
       <Head>
-        <title>The Highton</title>
+        <title>Voices by Grace</title>
       </Head>
       <header>
         <Navbar />
